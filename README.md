@@ -15,9 +15,9 @@ This is the notebook for the **Transformers from scratch** series on the YouTube
 Each chapter builds on the one before. Every chapter has its own folder with a notebook that goes up to that chapter: it has
 every earlier chapter too, so the newest chapter's notebook has everything so far. Each episode links to its own chapter's notebook.
 
-| # | Chapter | Notebook | Episode | Article |
-|---|---|---|---|---|
-| 1 | Text → numbers → vectors: token IDs, the embedding table, positions, batches, 3-D matrix multiplication, the lookup as math, the TinyStories dataset as train.bin / val.bin, and TinyGPT part 1 (our own model's embeddings) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gotherohit/llm-scratch/blob/main/ch01-text-to-vectors/llm_scratch_ch01.ipynb) · [folder](ch01-text-to-vectors) | [watch](https://youtu.be/IKFiXlc0k-k) | [read](https://gotherohit.github.io/AIML/series/transformers-from-scratch/01-text-to-vectors/) |
+| # | Chapter | Notebook | Episode | Deep dives | Article |
+|---|---|---|---|---|---|
+| 1 | Text → numbers → vectors: token IDs, the embedding table, positions, batches, 3-D matrix multiplication, the lookup as math, the TinyStories dataset as train.bin / val.bin, and TinyGPT part 1 (our own model's embeddings) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gotherohit/llm-scratch/blob/main/ch01-text-to-vectors/llm_scratch_ch01.ipynb) · [folder](ch01-text-to-vectors) | [watch](https://youtu.be/IKFiXlc0k-k) | [D1.1](https://youtu.be/25GaBn2QYW4) · D1.2 (soon) · D1.3 (soon) | [read](https://gotherohit.github.io/AIML/series/transformers-from-scratch/01-text-to-vectors/) |
 
 Coming next: attention by hand, one full layer, the whole model, the loss, training on a batch, backprop, the training loop, picking
 the next word, batched inference, modern variants (RMSNorm, RoPE, SwiGLU, grouped-query attention) and mixture of experts.

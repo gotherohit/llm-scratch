@@ -10,6 +10,7 @@ train on later, **TinyStories**: tokenize it, save it as `train.bin` / `val.bin`
 `llm_scratch_ch01.ipynb` is the series notebook up to and including this chapter: Setup + chapter 1.
 
 - **Episode:** [watch on YouTube](https://youtu.be/IKFiXlc0k-k)
+- **Deep dives:** [D1.1](https://youtu.be/25GaBn2QYW4) · D1.2 (soon) · D1.3 (soon) ([playlist](https://www.youtube.com/playlist?list=PLA-j4gq1nHi4))
 - **Article:** [read](https://gotherohit.github.io/AIML/series/transformers-from-scratch/01-text-to-vectors/)
 
 [← all chapters](../README.md)
